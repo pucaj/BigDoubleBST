@@ -1,0 +1,7 @@
+C:\Users\Pucaj\source\repos\ASD4\Lib\obj\Debug\Lib.csproj.CoreCompileInputs.cache
+C:\Users\Pucaj\source\repos\ASD4\Lib\bin\Debug\Lib.exe.config
+C:\Users\Pucaj\source\repos\ASD4\Lib\bin\Debug\Lib.exe
+C:\Users\Pucaj\source\repos\ASD4\Lib\bin\Debug\Lib.pdb
+C:\Users\Pucaj\source\repos\ASD4\Lib\obj\Debug\Lib.exe
+C:\Users\Pucaj\source\repos\ASD4\Lib\obj\Debug\Lib.pdb
+C:\Users\Pucaj\source\repos\ASD4\Lib\obj\Debug\Lib.csprojAssemblyReference.cache

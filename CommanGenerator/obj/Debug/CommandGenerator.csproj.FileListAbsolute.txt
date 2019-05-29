@@ -1,0 +1,11 @@
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\bin\Debug\CommanGenerator.exe.config
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\bin\Debug\CommanGenerator.exe
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\bin\Debug\CommanGenerator.pdb
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\bin\Debug\Lib.exe
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\bin\Debug\Lib.pdb
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\bin\Debug\Lib.exe.config
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\obj\Debug\CommandGenerator.csprojAssemblyReference.cache
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\obj\Debug\CommandGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\obj\Debug\CommandGenerator.csproj.CopyComplete
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\obj\Debug\CommanGenerator.exe
+C:\Users\Pucaj\source\repos\ASD4\CommanGenerator\obj\Debug\CommanGenerator.pdb

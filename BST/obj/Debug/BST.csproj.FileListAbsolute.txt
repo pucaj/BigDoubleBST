@@ -1,0 +1,11 @@
+C:\Users\Pucaj\source\repos\ASD4\BST\bin\Debug\BST.exe.config
+C:\Users\Pucaj\source\repos\ASD4\BST\bin\Debug\BST.exe
+C:\Users\Pucaj\source\repos\ASD4\BST\bin\Debug\BST.pdb
+C:\Users\Pucaj\source\repos\ASD4\BST\obj\Debug\BST.csprojAssemblyReference.cache
+C:\Users\Pucaj\source\repos\ASD4\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
+C:\Users\Pucaj\source\repos\ASD4\BST\obj\Debug\BST.exe
+C:\Users\Pucaj\source\repos\ASD4\BST\obj\Debug\BST.pdb
+C:\Users\Pucaj\source\repos\ASD4\BST\bin\Debug\Lib.exe
+C:\Users\Pucaj\source\repos\ASD4\BST\bin\Debug\Lib.pdb
+C:\Users\Pucaj\source\repos\ASD4\BST\bin\Debug\Lib.exe.config
+C:\Users\Pucaj\source\repos\ASD4\BST\obj\Debug\BST.csproj.CopyComplete
